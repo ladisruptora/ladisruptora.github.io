@@ -4,7 +4,7 @@
   <title><![CDATA[La disruptora]]></title>
   <link href="http://ladisruptora.github.io/atom.xml" rel="self"/>
   <link href="http://ladisruptora.github.io/"/>
-  <updated>2013-06-06T19:14:02+02:00</updated>
+  <updated>2013-06-11T00:22:47+02:00</updated>
   <id>http://ladisruptora.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+    <title type="html"><![CDATA[Probita probita]]></title>
+    <link href="http://ladisruptora.github.io/blog/2013/06/11/probita-probita/"/>
+    
+    <updated>2013-06-11T00:22:00+02:00</updated>
+    <id>http://ladisruptora.github.io/blog/2013/06/11/probita-probita</id>
+    
+    <content type="html"><![CDATA[<p>Una probita <em>chiquitita</em>.</p>
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
+    <title type="html"><![CDATA[pruba]]></title>
+    <link href="http://ladisruptora.github.io/blog/2013/06/11/pruba/"/>
+    
+    <updated>2013-06-11T00:21:00+02:00</updated>
+    <id>http://ladisruptora.github.io/blog/2013/06/11/pruba</id>
+    
+    <content type="html"><![CDATA[
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
+    <title type="html"><![CDATA[]]></title>
+    <link href="http://ladisruptora.github.io/blog/2013/06/11/"/>
+    
+    <updated>2013-06-11T00:20:00+02:00</updated>
+    <id>http://ladisruptora.github.io/blog/2013/06/</id>
+    
+    <content type="html"><![CDATA[
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
+    <title type="html"><![CDATA[Prueba probando]]></title>
+    <link href="http://ladisruptora.github.io/blog/2013/06/11/prueba-probando/"/>
+    
+    <updated>2013-06-11T00:06:00+02:00</updated>
+    <id>http://ladisruptora.github.io/blog/2013/06/11/prueba-probando</id>
+    
+    <content type="html"><![CDATA[<p>Esto es una <strong>prueba</strong>. Y esto <em>otra</em>.</p>
+]]></content>
+    
+  </entry>
   
   <entry>
     
